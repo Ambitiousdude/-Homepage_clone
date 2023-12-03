@@ -1,4 +1,4 @@
-# Admin Dashboard of Managewise.framer website
+# Admin Dashboard
 
 ## 📑 Table of contents
 
