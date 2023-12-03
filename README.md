@@ -10,7 +10,7 @@
 
 ### 📖 Project Overview
 
-This project is all about building an admin dashboard interface with an API
+This project is all about building an admin dashboard interface with by fetching datas using API
 
 ### 💻 Features
 
